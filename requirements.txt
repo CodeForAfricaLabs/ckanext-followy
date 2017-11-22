@@ -1,0 +1,51 @@
+asn1crypto==0.22.0
+beautifulsoup4==4.5.1
+blinker==1.4
+certifi==2017.7.27.1
+cffi==1.11.0
+-e git+https://github.com/andela/ckan.git@c8b60734e89b402f9f9f04a2daf0be19d13164ae#egg=ckan
+-e git+https://github.com/andela/ckanext-datarequests.git@1d08974a35cb25091a07ea3da3768fe0a505b02c#egg=ckanext_datarequests
+-e git+https://github.com/andela/ckanext-followy.git@5acc96ea5770f2c847e32b8bbefad27e3886dc69#egg=ckanext_followy
+-e git+https://github.com/okfn/ckanext-harvest.git@aca5b42b5635e03b96da1b3bc788c687031e6f38#egg=ckanext_harvest
+-e git+https://github.com/andela/ckanext-openafrica.git@753191fcb417797d9b447369acdddb84a086eace#egg=ckanext_openafrica
+coverage==4.4.1
+coveralls==1.2.0
+cryptography==2.0.3
+docopt==0.6.2
+docutils==0.12
+enum34==1.1.6
+extras==1.0.0
+factory-boy==2.1.1
+first==2.0.1
+fixtures==3.0.0
+Flask-Babel==0.11.2
+Flask-DebugToolbar==0.10.0
+Flask-Moment==0.5.1
+Flask-Testing==0.6.2
+httpretty==0.8.3
+idna==2.6
+ipaddress==1.0.18
+libmagic==1.0
+linecache2==1.0.0
+mock==2.0.0
+mox3==0.23.0
+pika==0.9.8
+pip-tools==1.7.0
+py==1.4.34
+pycodestyle==2.2.0
+pycparser==2.18
+pyfakefs==2.9
+pyOpenSSL==17.3.0
+pytest==3.2.2
+python-geoip==1.2
+python-geoip-geolite2==2015.303
+python-mimeparse==1.6.0
+selenium==3.6.0
+Sphinx==1.2.3
+sphinx-rtd-theme==0.1.9
+SQLAlchemy==1.1.11
+testtools==2.3.0
+traceback2==1.4.0
+unittest2==1.1.0
+urllib3==1.22
+vdm==0.14
